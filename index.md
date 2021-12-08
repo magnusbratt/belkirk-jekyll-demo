@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/uploads/2021/12/08/header-mira-tint.jpg"
 layout: landing-page
 heading: Mira Network
 partners:
@@ -8,6 +8,9 @@ partners:
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
+- heading: CRM for External Relations
+  description: for Higher Education
+  icon: ''
 - description: Performing collaborative research and providing services to support
     the Health Sector.
   heading: Health
