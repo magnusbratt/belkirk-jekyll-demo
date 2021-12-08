@@ -17,7 +17,7 @@ services:
   icon: "/uploads/2017/11/13/health.png"
 - description: Performing collaborative research and providing services to support
     the biotechnology sector.
-  heading: BioTech
+  heading: CRM for Membership organizations
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: The leading CRM-system for commercial and higher education in the Nordics
 textline: |
